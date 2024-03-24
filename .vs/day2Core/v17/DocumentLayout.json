@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Asp\\day2Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|d:\\asp\\day2core\\day2core\\day2core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|solutionrelative:day2core\\day2core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|d:\\asp\\day2core\\day2core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|solutionrelative:day2core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|d:\\asp\\day2core\\day2core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|solutionrelative:day2core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|d:\\asp\\day2core\\day2core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|solutionrelative:day2core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|d:\\asp\\day2core\\day2core\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|solutionrelative:day2core\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|d:\\asp\\day2core\\day2core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|solutionrelative:day2core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|d:\\asp\\day2core\\day2core\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9456FF97-DDC4-4A0B-BF4B-C847C0CEAABD}|day2Core\\day2Core.csproj|solutionrelative:day2core\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day2Core",
+              "DocumentMoniker": "D:\\Asp\\day2Core\\day2Core\\day2Core.csproj",
+              "RelativeDocumentMoniker": "day2Core\\day2Core.csproj",
+              "ToolTip": "D:\\Asp\\day2Core\\day2Core\\day2Core.csproj",
+              "RelativeToolTip": "day2Core\\day2Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T13:48:07.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Asp\\day2Core\\day2Core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "day2Core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Asp\\day2Core\\day2Core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "day2Core\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T13:38:52.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Asp\\day2Core\\day2Core\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "day2Core\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Asp\\day2Core\\day2Core\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "day2Core\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T13:38:36.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Asp\\day2Core\\day2Core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "day2Core\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Asp\\day2Core\\day2Core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "day2Core\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T13:21:39.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Asp\\day2Core\\day2Core\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "day2Core\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Asp\\day2Core\\day2Core\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "day2Core\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T13:20:23.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Asp\\day2Core\\day2Core\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "day2Core\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Asp\\day2Core\\day2Core\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "day2Core\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T13:20:08.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Asp\\day2Core\\day2Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "day2Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Asp\\day2Core\\day2Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "day2Core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T13:20:10.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
